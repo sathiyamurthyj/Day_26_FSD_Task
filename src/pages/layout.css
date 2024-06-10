@@ -1,0 +1,11 @@
+.nav-link {
+    padding: .5rem 1rem;
+    color: black;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+
+#navbar a.active {
+    border-bottom: 2px solid green;
+    color: green;
+}
